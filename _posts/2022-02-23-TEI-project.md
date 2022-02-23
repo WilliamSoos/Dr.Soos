@@ -22,4 +22,4 @@ I expressed this concern and Professor Stover told us about a tool that removed 
 
 ![AUTHOR](https://williamsoos.github.io/Dr.Soos/images/AuthorsView.png)
   
-Overall, I found this project to be a great experience. I was overwhelmed when it was first mentioned, but as we moved through the project I realized it's a very straightforward process that just requires attention to detail. The guidance provided by Professor Stover and useful tools within Oxygen really allowed me to further my familiarity and comfort with coding.
+Overall, I found this project to be a great experience. I was overwhelmed when it was first mentioned, but as we moved through the project I realized it's a very straightforward process that just requires attention to detail. The guidance provided by Professor Stover and useful tools within Oxygen really allowed me to further my familiarity and comfort with coding. The TEI project was a great way to demonstrate how old pieces of literature can be rejuvenated through the art of the digital humanities.

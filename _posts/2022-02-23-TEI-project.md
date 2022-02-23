@@ -1,7 +1,7 @@
 # My Oxygen Experience
 ## By William Soos
 
-For this assignment, I was given the opportunity to encode a portion of page 16 and 17 of Bram Stoker’s “Dracula’s Guest”. Stoker's piece shared the stories of a traveler's mysterious encounter with the mysterious woods, home to Dracula. The purpose of this assignment was to markup the text using the Text Encoding Initiative (TEI) and standardized eXtensible Markup Language (XML) introduced to us.
+For this assignment, I was given the opportunity to encode a portion of page 16 and 17 of Bram Stoker’s “*Dracula’s Guest*”. Stoker's piece shared the stories of a traveler's mysterious encounter with the mysterious woods, home to Dracula. The purpose of this assignment was to markup the text using the Text Encoding Initiative (TEI) and standardized eXtensible Markup Language (XML) introduced to us.
 
 ## **Markup**
 We began the assignment by identifying our individual portion of Stoker’s work. With Professor Stover already breaking the sections up for us, our next step was to begin analyzing our text by marking it up. We searched our passages for various tags such as titles, page beginnings, section breaks and more. My section was relatively straightforward, including a page beginning, numerous paragraph tags, and a handful of quotes.

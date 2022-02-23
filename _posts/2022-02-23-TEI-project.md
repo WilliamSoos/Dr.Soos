@@ -13,7 +13,7 @@ Utilizing the comments feature on Google Docs, seen above, was extremely helpful
 ## **Oxygen and XML**
 Just from the looks of it, coding has always been an intimidating process to me. I’ve never fully grasped the concept; however, using Oxygen was an extremely informing experience. As we progressed through the TEI project I most definitely noticed a strong development in my comfort and understanding of coding. 
 
-The in-class instruction provided useful insight on the steps of coding and how to implement necessary tags. While confusing at first, I eventually understood how and where to include my necessary tags: <p><p>, <pb n=”17”>, and <q></q>. This is largely due to the guidance and assistance Professor Stover provided me during class. At this point I was pretty sure I completed the code correctly, but I still had a daunting concern that it wasn't right.  
+The in-class instruction provided useful insight on the steps of coding and how to implement necessary tags. While confusing at first, I eventually understood how and where to include my necessary tags seen below. This is largely due to the guidance and assistance Professor Stover provided me during class. At this point I was pretty sure I completed the code correctly, but I still had a daunting concern that it wasn't right.  
 
 ![OXYGEN](https://williamsoos.github.io/Dr.Soos/images/OxygenCode.png)
 

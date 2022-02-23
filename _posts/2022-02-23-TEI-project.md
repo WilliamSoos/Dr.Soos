@@ -6,7 +6,7 @@ For this assignment, I was given the opportunity to encode a portion of page 16 
 ## **Markup**
 We began the assignment by identifying our individual portion of Stoker’s work. With Professor Stover already breaking the sections up for us, our next step was to begin analyzing our text by marking it up. We searched our passages for various tags such as titles, page beginnings, section breaks and more. My section was relatively straightforward, including a page beginning, numerous paragraph tags, and a handful of quotes.
 
-![MARKUP](https://williamsoos.github.io/Dr.Soos/images/Markup)
+![MARKUP](https://williamsoos.github.io/Dr.Soos/images/Markup.png)
 
 Utilizing the comments feature on Google Docs, seen above, was extremely helpful. This gave me a visual guide as to what tags I’m responsible for coding later on in our assignment. While confusing at first, the markup portion of this assignment turned out to be simple and acted as a great reference for the later portion of this assignment.
 

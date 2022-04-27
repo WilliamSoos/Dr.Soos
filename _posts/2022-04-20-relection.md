@@ -9,6 +9,7 @@ Looking back, I would say I enjoy the contents of this class, but I definitely r
 I found the readings to be a useful addition to the class. The fact that most of them were reasonable in length and also related to the material we were covering made them worth reading. I don’t think any of the posted readings were worth skipping, but I personally found some more serviceable than others. Interestingly enough, I think one of the most helpful readings was one of our first ones: “What is Digital Humanities” by Jason Heppler (“What is Digital Humanities”). As evident from my tweet below, this reading cleared up a lot of my initial confusion about what the Digital Humanities actually were and helped me come up with my own initial definition of the study: 
 
 >DH is a vast study that allows individuals to question and analyze aspects of life through an inclusive, personal process.
+
 ![HOME](https://williamsoos.github.io/Dr.Soos/images/DH-Tweet.png)
 	
 ### 2. Peer Review

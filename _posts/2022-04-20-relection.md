@@ -9,7 +9,7 @@ Looking back, I would say I enjoy the contents of this class, but I definitely r
 I found the readings to be a useful addition to the class. The fact that most of them were reasonable in length and also related to the material we were covering made them worth reading. I don’t think any of the posted readings were worth skipping, but I personally found some more serviceable than others. Interestingly enough, I think one of the most helpful readings was one of our first ones: “What is Digital Humanities” by Jason Heppler (“What is Digital Humanities”). As evident from my tweet below, this reading cleared up a lot of my initial confusion about what the Digital Humanities actually were and helped me come up with my own initial definition of the study: 
 
 >DH is a vast study that allows individuals to question and analyze aspects of life through an inclusive, personal process.
-
+![HOME](https://williamsoos.github.io/Dr.Soos/images/DH-Tweet.png)
 	
 ### 2. Peer Review
 I have never done peer review so frequently for a class, but I really enjoyed it for multiple reasons. It was super helpful having the opportunity to see how our classmates structured their work as well as get their feedback on our own writing. Getting a second set of eyes to review my work before turning it in helped me fine tune a lot of things I missed when reviewing with my own eyes. Also, the peer review template was a great tool to use for reviewing our peers' work, but I also really liked using it as a final checklist to ensure I completed everything before submitting. A maybe less obvious reason is that having peer review requires you to look at and work on your assignment a bit earlier than the due date. I, like many, tend to procrastinate but our peer reviews forced me to at least get a rough draft put together and get moving on the assignment as opposed to putting it off.
@@ -24,3 +24,5 @@ This course was a really enjoyable experience and taught me so much about this i
 To conclude this reflection and show the progression in my understanding of the Digital Humanities, I’m providing my final attempt at defining this study along with a visual, originally provided by Dr. Stover, that I now realize encapsulates the Digital Humanities perfectly.  
 
 >DH is the integration of new technology to pre-existing studies to both pose and answer questions about modern times and the history that came before us. 
+
+![HOME](https://williamsoos.github.io/Dr.Soos/images/DH-VISUAL.png)

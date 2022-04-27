@@ -1,7 +1,7 @@
 # Reflecting on my Digital Humanities Journey 
 ## By: William Soos
 
-*Writing for the Digital Humanities* was one of the most unique courses I have taken while at CNU. Coming into this semester I had no prior experiences in this field of study and truthfully didn’t even have a clue as to what the digital humanities were. I registered for this course because it seemed different from a traditional English class, and I can now say I was spot on with that assumption. 
+*Writing for the Digital Humanities* was one of the most unique courses I have taken while at CNU. Coming into this semester I had no prior experiences in this field of study and truthfully didn’t even have a clue as to what the Digital Humanities were. I registered for this course because it seemed different from a traditional English class, and I can now say I was spot on with that assumption. 
 
 Looking back, I would say I enjoy the contents of this class, but I definitely remember times throughout the year where I felt lost. This feeling wasn’t because of how the class was structured or taught, rather I think it was due to the fact that essentially every assignment was a new experience for me. Before this class I had never used [GitHub](https://blog.hubspot.com/website/what-is-github-used-for), [Oxygen](https://www.oxygenxml.com), or created a grant. While lost at times, that feeling didn’t last very long because there were so many resources available to help us succeed. Below were the three that helped me the most throughout the semester. 
 
@@ -22,8 +22,8 @@ I could write for days about all of the resources that helped me throughout this
 
 This course was a really enjoyable experience and taught me so much about this interesting study. I’m grateful I took a leap and registered for *Writing for the Digital Humanities* as I truly believe this way of writing will be a focus of the future. 
 
-To conclude this reflection and show the progression in my understanding of the Digital Humanities, I’m providing my final attempt at defining this study along with a visual, originally provided by Dr. Stover, that I now realize encapsulates the Digital Humanities perfectly.  
+To conclude this reflection and show the progression in my understanding of the Digital Humanities, I’m providing my final attempt at defining this study along with a visual, originally provided by Dr. Stover, that I now realize encapsulates it perfectly.  
 
->DH is the integration of new technology to pre-existing studies to both pose and answer questions about modern times and the history that came before us. 
+>DH is the integration of new technology to pre-existing studies to both pose and answer questions about our world now and the history that came before us. 
 
 ![HOME](https://williamsoos.github.io/Dr.Soos/images/DH-VISUAL.png)

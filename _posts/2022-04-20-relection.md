@@ -1,4 +1,4 @@
-# Reflecting on my Digital Humanities Journey 
+# Reflecting on My Digital Humanities Journey 
 ## By: William Soos
 
 *Writing for the Digital Humanities* was one of the most unique courses I have taken while at CNU. Coming into this semester I had no prior experiences in this field of study and truthfully didn’t even have a clue as to what the Digital Humanities were. I registered for this course because it seemed different from a traditional English class, and I can now say I was spot on with that assumption. 
